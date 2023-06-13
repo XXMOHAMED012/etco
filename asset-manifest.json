@@ -1,22 +1,37 @@
 {
   "files": {
     "main.css": "/etco/static/css/main.571404cb.css",
-    "main.js": "/etco/static/js/main.dcae0a8d.js",
+    "main.js": "/etco/static/js/main.4b323cc1.js",
+    "static/media/beautiful-alternative-energy-plant-with-solar-panels.jpg": "/etco/static/media/beautiful-alternative-energy-plant-with-solar-panels.9fae1f955190d12c0f8d.jpg",
+    "static/media/solar-cell-farm-power-station-alternative-energy-from-sun.jpg": "/etco/static/media/solar-cell-farm-power-station-alternative-energy-from-sun.e353aec931c861eb5972.jpg",
+    "static/media/wind-energy-with-wind-turbines-background.jpg": "/etco/static/media/wind-energy-with-wind-turbines-background.5114e9a4bc2606b0c30d.jpg",
+    "static/media/bulb-solar-panel-eolic-fan.jpg": "/etco/static/media/bulb-solar-panel-eolic-fan.ce9aa6a14b548cd9dba2.jpg",
+    "static/media/solar-pannels-wind-power-plant-arrangement.jpg": "/etco/static/media/solar-pannels-wind-power-plant-arrangement.77addf69df46dd8c6b9b.jpg",
+    "static/media/energy3.jpg": "/etco/static/media/energy3.865f15c95f13476d2948.jpg",
+    "static/media/19713191_5p4w_9i87_210701.jpg": "/etco/static/media/19713191_5p4w_9i87_210701.afe489e9dc7608f3d2ba.jpg",
+    "static/media/energy2.jpg": "/etco/static/media/energy2.2e6cba8232ac707f9aa8.jpg",
+    "static/media/4330659_19036.jpg": "/etco/static/media/4330659_19036.bcda96614ade9bffc500.jpg",
+    "static/media/21388684_2110.w013.n001.568B.p15.568.jpg": "/etco/static/media/21388684_2110.w013.n001.568B.p15.568.b824371aa2ff22b37856.jpg",
+    "static/media/energy.jpg": "/etco/static/media/energy.999e8e9a1fa656eac748.jpg",
+    "static/media/12085765_20944253.jpg": "/etco/static/media/12085765_20944253.86102f8597de8c81cfd9.jpg",
     "static/media/fa-solid-900.ttf": "/etco/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/landing2.jpg": "/etco/static/media/landing2.b92bbaa9698cef7e976a.jpg",
     "static/media/fa-brands-400.ttf": "/etco/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/contact.jpg": "/etco/static/media/contact.2ced2ecbb30de6082ef7.jpg",
     "static/media/fa-solid-900.woff2": "/etco/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "/etco/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/fa-regular-400.ttf": "/etco/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/fa-regular-400.woff2": "/etco/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/logo.png": "/etco/static/media/logo.d046cc437a6120813a1a.png",
     "static/media/fa-v4compatibility.ttf": "/etco/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/logo.JPG": "/etco/static/media/logo.dda339199bd29a8b299a.JPG",
     "static/media/fa-v4compatibility.woff2": "/etco/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/etco/index.html",
     "main.571404cb.css.map": "/etco/static/css/main.571404cb.css.map",
-    "main.dcae0a8d.js.map": "/etco/static/js/main.dcae0a8d.js.map"
+    "main.4b323cc1.js.map": "/etco/static/js/main.4b323cc1.js.map"
   },
   "entrypoints": [
     "static/css/main.571404cb.css",
-    "static/js/main.dcae0a8d.js"
+    "static/js/main.4b323cc1.js"
   ]
 }
