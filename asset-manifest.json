@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/etco/static/css/main.7af4b3f5.css",
-    "main.js": "/etco/static/js/main.b35121f2.js",
+    "main.js": "/etco/static/js/main.7ec326b0.js",
     "static/media/landing.jpg": "/etco/static/media/landing.e6db02412329e0af1dd6.jpg",
     "static/media/4330659_19036.jpg": "/etco/static/media/4330659_19036.bcda96614ade9bffc500.jpg",
     "static/media/logo.png": "/etco/static/media/logo.1be7d30f822c97327d65.png",
@@ -30,10 +30,10 @@
     "static/media/fa-v4compatibility.woff2": "/etco/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/etco/index.html",
     "main.7af4b3f5.css.map": "/etco/static/css/main.7af4b3f5.css.map",
-    "main.b35121f2.js.map": "/etco/static/js/main.b35121f2.js.map"
+    "main.7ec326b0.js.map": "/etco/static/js/main.7ec326b0.js.map"
   },
   "entrypoints": [
     "static/css/main.7af4b3f5.css",
-    "static/js/main.b35121f2.js"
+    "static/js/main.7ec326b0.js"
   ]
 }
