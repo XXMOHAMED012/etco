@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/etco/static/css/main.a8e463ee.css",
-    "main.js": "/etco/static/js/main.1aa8243d.js",
+    "main.css": "/etco/static/css/main.7af4b3f5.css",
+    "main.js": "/etco/static/js/main.b35121f2.js",
     "static/media/landing.jpg": "/etco/static/media/landing.e6db02412329e0af1dd6.jpg",
     "static/media/4330659_19036.jpg": "/etco/static/media/4330659_19036.bcda96614ade9bffc500.jpg",
-    "static/media/section3.jpg": "/etco/static/media/section3.685567973e5a7b0ecd3a.jpg",
-    "static/media/section2.jpg": "/etco/static/media/section2.86102f8597de8c81cfd9.jpg",
     "static/media/logo.png": "/etco/static/media/logo.1be7d30f822c97327d65.png",
     "static/media/advance.jpg": "/etco/static/media/advance.a795e355495a6c121e41.jpg",
     "static/media/fa-solid-900.ttf": "/etco/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/section1.jpg": "/etco/static/media/section1.4bf064f6805a31bbeec2.jpg",
-    "static/media/landing2.jpg": "/etco/static/media/landing2.b92bbaa9698cef7e976a.jpg",
     "static/media/fa-brands-400.ttf": "/etco/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/contact.jpg": "/etco/static/media/contact.2ced2ecbb30de6082ef7.jpg",
     "static/media/fa-solid-900.woff2": "/etco/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "/etco/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/leader.png": "/etco/static/media/leader.0e9f17c7058409837d00.png",
     "static/media/section2.png": "/etco/static/media/section2.310ed7cd288d1487faa5.png",
     "static/media/section3.png": "/etco/static/media/section3.3cf6ffe733e10c4d6ac7.png",
     "static/media/section1.png": "/etco/static/media/section1.054f7aceb95047786d39.png",
@@ -32,11 +29,11 @@
     "static/media/logo.JPG": "/etco/static/media/logo.dda339199bd29a8b299a.JPG",
     "static/media/fa-v4compatibility.woff2": "/etco/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/etco/index.html",
-    "main.a8e463ee.css.map": "/etco/static/css/main.a8e463ee.css.map",
-    "main.1aa8243d.js.map": "/etco/static/js/main.1aa8243d.js.map"
+    "main.7af4b3f5.css.map": "/etco/static/css/main.7af4b3f5.css.map",
+    "main.b35121f2.js.map": "/etco/static/js/main.b35121f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8e463ee.css",
-    "static/js/main.1aa8243d.js"
+    "static/css/main.7af4b3f5.css",
+    "static/js/main.b35121f2.js"
   ]
 }
